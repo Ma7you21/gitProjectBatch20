@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("hello syntax");
         System.out.println("hello day");
+        System.out.println("hello day2 ");
 
 
     }
